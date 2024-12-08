@@ -1,0 +1,25 @@
+name: funny
+description: Meme commands, games and more!
+version: 1.0.0
+
+config:
+  meme_subreddits:
+    - memes
+    - dankmemes
+  roasts:
+    - "{user}'s mum is so fat, even Godzilla runs from her."
+    - "{user}.... you're the human version of a participation trophy."
+    - "{user}'s brain is like a browser—15 tabs open, 5 of them are frozen, and 3 are playing music."
+    - "{user}'s hairline has more wrinkles than a piece of parchment."
+    - "{user}.... if I had a dollar for every time you said something funny, I'd be broke."
+    - "{user}'s mum is so fat, when she wears a yellow coat, people yell ‘Taxi!’"
+    - "{user}'s sense of humor is like a Wi-Fi signal—weak and constantly dropping."
+    - "{user}'s so dumb, they tried to climb Mountain Dew."
+    - "{user}'s IQ is so low, even your shadow won’t follow you."
+    - "{user}.... you must’ve been born on a highway, because that's where most accidents happen."
+    - "{user}'s face is like a pizza—round and covered in grease."
+    - "{user}.... if laziness were an Olympic sport, you'd get the gold medal... if you could be bothered to show up."
+    - "{user}'s mum is so fat, when she steps on a scale, it says 'One at a time, please!'"
+    - "{user}.... you're the human equivalent of a software update: annoying and unnecessary."
+    - "{user}'s voice is so squeaky, even mice get jealous."
+   
