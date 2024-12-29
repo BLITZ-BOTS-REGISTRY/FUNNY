@@ -1,6 +1,6 @@
 name: funny
 description: Meme commands, games and more!
-version: 1.0.0
+version: 1.0.1
 
 config:
   meme_subreddits:
